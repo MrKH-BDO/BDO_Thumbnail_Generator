@@ -1,0 +1,2 @@
+# BDO_Thumbnail_Generator
+キャラクター選択画面に使用する画像を生成するツール
